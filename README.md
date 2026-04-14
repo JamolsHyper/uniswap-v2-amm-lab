@@ -15,7 +15,7 @@ Implementation and analysis of the Uniswap V2 Automated Market Maker (AMM) using
 - **Part 1** - Pool Mechanics: implementing the `UniswapV2Pool` class with swap logic and fee handling
 - **Part 2** - Price Impact: analyzing how trade size and pool depth affect execution price
 - **Part 3** - Liquidity Provision: LP share minting, removal, and fee accrual
-- **Bonus** - Impermanent Loss analysis vs price drift
+- **Bonus** - Impermanent Loss analysis vs price drift.
 
 ## How to Run
 
